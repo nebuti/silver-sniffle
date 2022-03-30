@@ -1,0 +1,274 @@
+.show-case{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+}
+.text-1{
+    color: white;
+    font-weight: 800;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 60pt;
+    padding-top: 25px;
+    padding-left: 20%;
+}
+#search-box{
+    width: 900px;
+    height: 70px;
+    background-color: white;
+    border-color: none;
+    border-radius: 8px;    
+    font-size: 14pt;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    margin-left: 20%;
+    padding-left: 15px;
+}
+.lower{
+    display: flex;
+    list-style: none;
+    background-color: none;
+    margin-left: 140px;
+    margin-top: 130px;
+}
+.text-2, .text-3, .text-4, .text-5{
+    color: white;
+    padding-left: 130px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 15pt;
+}
+.text-6, .text-7, .text-8, .text-9{
+    color: white;
+    padding-left: 70px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    font-size: 15pt;
+}
+.lower-2{
+    display: flex;
+    list-style: none;
+    background-color: none;
+    margin-left: 110px;
+}
+/* .list-1{
+   
+    list-style: none;
+    display: flex;
+    margin-left: 160px;
+}
+.options{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    
+}
+.text-10, .text-11, .text-12{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: 17pt;
+    color: black;
+    padding
+} */
+.options{
+    list-style:none;
+    background-color: rgba(206, 191, 191, 0.251);
+   padding-left: 270px;
+   padding-top: 30px;
+}
+th{
+    float: none;
+    position: left;
+
+}.row-10 .row-16 p{
+    display: block;
+    text-align: center;
+    padding: 14px 84px;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17pt;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+}
+th:hover a:hover{
+    color: #1ed760;
+    text-decoration: none;
+}
+img{
+    background-size: 1300px 900px;
+}
+
+td{
+    float: none;
+    position: left;
+
+}
+.row-11>td>a, .row-23,
+.row-12>a, .row-17,
+.row-13, .row-18,
+.row-14, .row-19,
+.row-20, .row-21,
+.row-15, .row-22{
+    display: block;
+    text-align: center;
+    padding: 14px 84px;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 12pt;
+     color: #1ed760;
+}
+td:hover a:hover{
+    color: #1ed760;
+    text-decoration: none;
+}
+.text-15{
+    padding-right: 7px;
+}
+.text-16{
+    font-size: 35pt;
+    font-weight: 800;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+}
+.text-17{
+    font-size: 13pt;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: black;
+    padding-top: 10px;
+}
+#btn-1{
+    width: 190px;
+    height: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15pt;
+    margin-left: 45%;
+    border: none;
+    font-weight: 700;
+    background-color: #1ed760;
+    color: black;
+    border-radius: 25px;
+}
+/* this is the footer region. the lower side of this webpage. */
+.row-1{
+    list-style:none;
+    background-color: none;
+    margin-left: -200px;
+    margin-right:250px;
+}
+th{
+    float: none;
+    position: left;
+
+}
+th a{
+    display: block;
+    text-align: center;
+    padding: 14px 84px;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10pt;
+     color: rgb(138, 136, 136);
+}
+/* th:hover a:hover{
+    color: #1ed760;
+    text-decoration: none;
+} */
+img{
+    background-size: 1300px 900px;
+}
+
+td{
+    float: none;
+    position: left;
+
+}
+td>a{
+    display: block;
+    text-align: center;
+    padding: 14px 84px;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 10pt;
+     color: white;
+}
+td:hover a:hover{
+    color: #1ed760;
+    text-decoration: none;
+}
+.all{
+    margin-left: -115px;
+    padding-top: 40px;
+}
+#icon{
+    margin-left: 35px;
+    padding: 14px;
+    
+}
+th>.fa-spotify{
+    color: white;
+    padding: 10px;
+    font-size: 23pt;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+     padding-left: 9px;
+     
+
+}
+th:hover i:hover{
+    color: #1ed760; 
+}
+.links>li{
+    
+    float: left;
+    position: right;
+    right: 0px;
+    left: 20px;
+    color: white;
+    display: block;
+ 
+    text-align: center;
+    padding: 16px;
+    text-decoration: none; 
+    font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: smaller;
+
+}
+.links{
+    margin-left: 190px;
+    margin-top: 110px;
+    background-color: black;
+}
+ul{
+    float: left;
+    position: right;
+    right: 0px;
+    left: 20px;
+    color: white;
+}
+ul>a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 9px;
+    text-decoration: none; 
+    font-size: 28px;
+}
+ul>a:hover{
+    color: rgb(2, 156, 2);
+    text-decoration: none;
+}   
+nav{
+    background-color: black;
+    width: 100%;
+    height: 550px;
+    margin-top: 700px;
+}
